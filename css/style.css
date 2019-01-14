@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+body * { box-sizing: border-box }
+img {
+    width: auto;
+    max-width: 100%;
+}
+
+.ba-container {
+    width: 1230px;
+    margin: 0 auto;
+}
+.ba-grid {
+    overflow: hidden;
+}
+.ba-width-50 {
+    width: 50%;
+    float: left;
+}
+.ba-width-30 {
+    width: 33.3%;
+    float: left;
+}
+.ba-width-16 {
+    width: 16.6%;
+    float: left;
+}
+.pad-bottom {
+    padding-bottom: 10px;
+}
+.pad-right {
+    padding-right: 10px;
+}
